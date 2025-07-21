@@ -12,4 +12,5 @@
 <p>This site is for you to find people near you who likes the same things as you do! 
 Use different tags on your page, posts, blogs or however you interact to meet people on your brainwave!</p>
 
-<a href="signup.html">Sign up</a>
+
+
